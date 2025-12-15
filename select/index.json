@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Swamp",
+  "base_artist": "milet",
+  "createdAt": "2025-12-15T17:01:08.871920Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Legend of Wooley Swamp",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/01_The_Legend_of_Wooley_Swamp_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Legend Of Wooley Swamp (Album Version)",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/02_The_Legend_Of_Wooley_Swamp_(Album_Version)_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "How to Embrace a Swamp Creature",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/03_How_to_Embrace_a_Swamp_Creature_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "N.A.S.A. Music (Feat. Method Man, E-40 & DJ Swamp)",
+      "artist": "N.A.S.A.",
+      "has_synced": true,
+      "path": "select/04_N.A.S.A._Music_(Feat._Method_Man,_E-40_&_DJ_Swamp)_N.A.S.A..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Swimming In the Swamp",
+      "artist": "The National Lights",
+      "has_synced": true,
+      "path": "select/05_Swimming_In_the_Swamp_The_National_Lights.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Swamp Song",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_The_Swamp_Song_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Feel You - Swamp Mix",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/07_I_Feel_You_-_Swamp_Mix_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Feel You (Swamp Mix)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/08_I_Feel_You_(Swamp_Mix)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Swamp Music",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/09_Swamp_Music_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Swamp Music",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/10_Swamp_Music_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Swamp Music",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/11_Swamp_Music_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Swamp Music - Live",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/12_Swamp_Music_-_Live_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Swamp Song",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/13_Swamp_Song_Blur.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Swamp",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/14_Swamp_Talking_Heads.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Swamp",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_Swamp_milet.txt"
+    }
+  ]
+}
